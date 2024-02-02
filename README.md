@@ -6,6 +6,8 @@
 
 # ​🇮​ ​🇳​ ​🇫​ ​🇴​ ​🇷​ ​🇲​ ​🇦​ ​🇹​ ​🇮​ ​🇴​ ​🇳​ 💬
 
+![maxresdefault](https://github.com/Sirmasanija/World-Of-Tanks-Assistant/assets/158599754/a0c8c389-8e27-4219-a58c-d9cf7fdf0e78)
+
 ### Application doesnt work?
 
 * Try to open URL in another browser
